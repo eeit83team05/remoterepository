@@ -17,6 +17,7 @@ public class Servlet29 extends HttpServlet {
 	
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		
+		System.out.println("this is test");
 		System.out.println("Hello!");
 	}
 
