@@ -17,6 +17,7 @@ public class Servlet29 extends HttpServlet {
 		System.out.println("this is test");
 		System.out.println("馬");
 		System.out.println("Hello!");
+		System.out.println("09");
 	}
 
 
