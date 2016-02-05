@@ -27,7 +27,7 @@ stmt.close();
 conn.close();
 %>
 
-
+<a href="/Team05WebProj/test">page</a>
 
 </body>
 </html>
