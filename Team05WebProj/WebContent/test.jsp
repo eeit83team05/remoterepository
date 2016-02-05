@@ -28,8 +28,6 @@ conn.close();
 %>
 
 
-
-
 <a href="/Team05WebProj/hugestick">fuk</a>
 
 <a href="/Team05WebProj/test">page</a>
@@ -39,6 +37,6 @@ conn.close();
 
 <a href = "/Team05WebProj/qq">Click here</a>
 
-
+<a href = "/Team05WebProj/test1">組長最終版本</a>
 </body>
 </html>

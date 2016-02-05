@@ -42,7 +42,7 @@
 		<servlet-name>eeit8329</servlet-name>
 		<url-pattern>/demoview</url-pattern>
 	</servlet-mapping>
-	
+
 	<servlet>
 		<servlet-name>eeit8323</servlet-name>
 		<servlet-class>controller.Servlet23</servlet-class>
