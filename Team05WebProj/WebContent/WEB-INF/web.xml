@@ -53,7 +53,7 @@
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>eeit8323</servlet-name>
-		<url-pattern>/demoview</url-pattern>
+		<url-pattern>/demoview1</url-pattern>
 	</servlet-mapping>
 
 <servlet>
