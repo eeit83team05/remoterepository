@@ -29,7 +29,7 @@ stmt.close();
 conn.close();
 %>
 
-
+<a href="/Team05WebProj/demoview">Servlet</a>
 
 </body>
 </html>
