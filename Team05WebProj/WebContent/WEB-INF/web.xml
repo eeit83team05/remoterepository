@@ -26,16 +26,14 @@
 		<servlet-name>Servlet10</servlet-name>
 		<url-pattern>/test</url-pattern>
 	</servlet-mapping>
-
 	<servlet>
 		<servlet-name>Servlet1</servlet-name>
 		<servlet-class>controller.Servlet26</servlet-class>
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>Servlet1</servlet-name>
-		<url-pattern>/test</url-pattern>
+		<url-pattern>/test1</url-pattern>
 	</servlet-mapping>
-
 	<servlet>
 		<servlet-name>eeit8329</servlet-name>
 		<servlet-class>controller.Servlet29</servlet-class>
@@ -51,7 +49,7 @@
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>eeit8323</servlet-name>
-		<url-pattern>/demoview</url-pattern>
+		<url-pattern>/demoview1</url-pattern>
 	</servlet-mapping>
 
 	<servlet>
