@@ -3,41 +3,37 @@
 	xmlns="http://xmlns.jcp.org/xml/ns/javaee"
 	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
 	version="3.1">
-	
-  <display-name>Team05WebProj</display-name>
-  <resource-ref>
-    <res-ref-name>jdbc/xxx</res-ref-name>
-    <res-type>javax.sql.DataSource</res-type>
-    <res-auth>Container</res-auth>
-    <res-sharing-scope>Shareable</res-sharing-scope>
-  </resource-ref>
-   <servlet>
-			<servlet-name>Servlet12</servlet-name>
-			<servlet-class>controller.Servlet12</servlet-class>
+	<display-name>Team05WebProj</display-name>
+	<resource-ref>
+		<res-ref-name>jdbc/xxx</res-ref-name>
+		<res-type>javax.sql.DataSource</res-type>
+		<res-auth>Container</res-auth>
+		<res-sharing-scope>Shareable</res-sharing-scope>
+	</resource-ref>
+	<servlet>
+		<servlet-name>Servlet12</servlet-name>
+		<servlet-class>controller.Servlet12</servlet-class>
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>Servlet12</servlet-name>
 		<url-pattern>/hugestick</url-pattern>
 	</servlet-mapping>
-  <servlet>
-    <servlet-name>Servlet10</servlet-name>
-    <servlet-class>controller.Servlet10</servlet-class>
-  </servlet>
-  <servlet-mapping>
-    <servlet-name>Servlet10</servlet-name>
-    <url-pattern>/test</url-pattern>
-  </servlet-mapping>
-
-
+	<servlet>
+		<servlet-name>Servlet10</servlet-name>
+		<servlet-class>controller.Servlet10</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>Servlet10</servlet-name>
+		<url-pattern>/test</url-pattern>
+	</servlet-mapping>
 	<servlet>
 		<servlet-name>Servlet1</servlet-name>
 		<servlet-class>controller.Servlet26</servlet-class>
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>Servlet1</servlet-name>
-		<url-pattern>/test</url-pattern>
+		<url-pattern>/test1</url-pattern>
 	</servlet-mapping>
-	
 	<servlet>
 		<servlet-name>eeit8329</servlet-name>
 		<servlet-class>controller.Servlet29</servlet-class>
@@ -56,11 +52,10 @@
 		<url-pattern>/demoview1</url-pattern>
 	</servlet-mapping>
 
-<servlet>
+	<servlet>
 		<servlet-name>eeit8309</servlet-name>
 		<servlet-class>controller.Servlet09</servlet-class>
 	</servlet>
-
 	<servlet-mapping>
 		<servlet-name>eeit8309</servlet-name>
 		<url-pattern>/qq</url-pattern>
