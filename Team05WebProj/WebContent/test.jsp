@@ -28,17 +28,12 @@ conn.close();
 %>
 
 
-
-
 <a href="/Team05WebProj/hugestick">fuk</a>
 <a href="/Team05WebProj/index">demo</a>
-
 <a href="/Team05WebProj/test">page</a>
-
 <a href="/Team05WebProj/demoview">Servlet</a>
 <a href="/Team05WebProj/demoview">請點選此處</a>
-
-<a href = "/Team05WebProj/qq">Click here</a>
+<a href="/Team05WebProj/qq">Click here</a>
 
 
 </body>
