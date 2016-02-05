@@ -10,4 +10,14 @@
   <welcome-file-list>
     <welcome-file>index.html</welcome-file>
   </welcome-file-list>
+  <servlet>
+    <servlet-name>Servlet12</servlet-name>
+    <servlet-class>controller.Servlet12</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Servlet12</servlet-name>
+    <url-pattern>/index</url-pattern>
+  </servlet-mapping>
+  
+  
 </web-app>
