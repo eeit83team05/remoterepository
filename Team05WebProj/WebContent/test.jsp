@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<a href = "/Team05WebProj/qq">Click here</a>
+
 <%@ page import="javax.naming.*" %>
 <%@ page import="javax.sql.DataSource" %>
 <%@ page import="java.sql.*" %>
@@ -26,6 +26,19 @@ rset.close();
 stmt.close();
 conn.close();
 %>
+
+
+
+
+<a href="/Team05WebProj/hugestick">fuk</a>
+<a href="/Team05WebProj/index">demo</a>
+
+<a href="/Team05WebProj/test">page</a>
+
+<a href="/Team05WebProj/demoview">Servlet</a>
+<a href="/Team05WebProj/demoview">請點選此處</a>
+
+<a href = "/Team05WebProj/qq">Click here</a>
 
 
 </body>
