@@ -18,6 +18,16 @@ public class Servlet29 extends HttpServlet {
 		System.out.println("Hello!");
 		System.out.println("eeit8326!!!");
 		
+		System.out.println("09");
+
+
+		System.out.println("ooooo");
+
+		System.out.println("馬");
+		System.out.println("馬");
+		System.out.println("馬");
+		System.out.println("馬");		
+		System.out.println("eeit8326!!!");
 	}
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		this.doGet(request, response);
