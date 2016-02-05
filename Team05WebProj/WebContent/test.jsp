@@ -33,8 +33,6 @@ conn.close();
 <a href="/Team05WebProj/demoview">Servlet</a>
 <a href="/Team05WebProj/demoview1">請點選此處</a>
 <a href = "/Team05WebProj/qq">Click here</a>
-
-
-
+<a href = "/Team05WebProj/test1">組長最終版本</a>
 </body>
 </html>
