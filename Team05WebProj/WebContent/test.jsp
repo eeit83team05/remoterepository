@@ -28,8 +28,6 @@ conn.close();
 %>
 
 
-
-
 <a href="/Team05WebProj/hugestick">fuk</a>
 
 <a href="/Team05WebProj/test">page</a>
