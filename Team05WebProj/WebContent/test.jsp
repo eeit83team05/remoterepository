@@ -27,7 +27,7 @@ stmt.close();
 conn.close();
 %>
 
-
+<a href="/Team05WebProj/demoview">請點選此處</a>
 
 </body>
 </html>
